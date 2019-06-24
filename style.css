@@ -1,15 +1,33 @@
+body{
+    color: wheat;
+    border: 10px;
+    border-block-color: gray;
+}
+
+header{
+    color: rosybrown;
+}
+
 H1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: blue;
+    font-size: 60px;
 }
 
 h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: brown;
+    font-size: 40px;
+
 }
 
 .gray{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
+
 }
 
 li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
 }
