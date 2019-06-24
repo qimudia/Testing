@@ -1,29 +1,39 @@
 body{
-    color: wheat;
-    border: 10px;
-    border-block-color: gray;
+    background-color: whitesmoke;
+    margin: 0;
+    border: 20px, 30px;
+    border-color: gray;
+    padding: 40px;
 }
 
+
 header{
-    color: rosybrown;
+    background-color: gray;
+    height: 40;
+    
 }
 
 H1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blue;
+    color:lightseagreen;
     font-size: 60px;
+    padding: 11px;
 }
 
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
-    font-size: 40px;
+    color: lightseagreen;
+    font-size: 30px;
 
+}
+hr{
+    color: blue
 }
 
 .gray{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
+    padding: 10px;
 
 }
 
